@@ -5,4 +5,5 @@
 1. Place tea in pot
 1. Pour boiling hot water into pot
 1. Wait for 5 minutes
+    1. While waiting, prime mug with milk
 1. Decant into a mug
